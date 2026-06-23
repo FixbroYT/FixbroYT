@@ -1,5 +1,5 @@
 # 💫 About Me:
-📄I am currently working on small projects for my portfolio.<br>🔎I am studying the specifics of Python and JS to work with them better.<br>🎓In the future, I plan to study C++.<br>💼I work as a freelancer - https://kwork.com/user/quippl.<br>🎮I love playing computer games)
+📄I am currently working on small projects for my portfolio.<br>🔎I am studying the specifics of Python and JS to work with them better.<br>🎓In the future, I plan to study C++.<br>🎮I love playing computer games)
 
 
 ## 🌐 Socials:
